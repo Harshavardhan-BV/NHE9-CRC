@@ -1,0 +1,9 @@
+[submodule "EMT_Scoring_RNASeq"]
+	path = EMT_Scoring_RNASeq
+	url = https://github.com/Cancer-Systems-Biology-Lab/EMT_Scoring_RNASeq.git
+[submodule "ssGSEA"]
+	path = ssGSEA
+	url = https://github.com/Cancer-Systems-Biology-Lab/ssGSEA.git
+[submodule "EMT_score_MicroArray"]
+	path = EMT_score_MicroArray
+	url = https://github.com/Cancer-Systems-Biology-Lab/EMT_score_MicroArray.git
